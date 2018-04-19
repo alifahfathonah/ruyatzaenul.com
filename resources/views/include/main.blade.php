@@ -48,6 +48,15 @@
                             </div>                                                                                         
                         </div>
                     </li>
+                    <li class="bg-img bg-img-3 slider-3">
+                        <div class="style_one">
+                            <div class="container">
+                                <div class="row">                                
+                                    <div class="col-md-12">&nbsp;</div>
+                                </div>  
+                            </div>                                                                                         
+                        </div>
+                    </li>
 
                 </ul>
             </div>   
